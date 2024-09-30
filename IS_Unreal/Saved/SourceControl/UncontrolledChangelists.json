@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/UnrealProject/IS_Unreal/Content/BP_ActorSpawn.uasset",
+				"D:/Unreal/UnrealProject/IS_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/94/HWWVNOUYKQIXDO670HXE5U.uasset",
+				"D:/Unreal/UnrealProject/IS_Unreal/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Unreal/UnrealProject/IS_Unreal/Content/BP_ActorSpawn_Child.uasset",
+				"D:/Unreal/UnrealProject/IS_Unreal/Content/BP_FPSshow.uasset",
+				"D:/Unreal/IS_Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
